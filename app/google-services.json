@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902174855199",
+    "project_id": "signuploginrealtimedatabase",
+    "storage_bucket": "signuploginrealtimedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902174855199:android:034ea61bec48415cf6852a",
+        "android_client_info": {
+          "package_name": "com.example.signuploginrealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902174855199-484tdr7gic8r2nnboulhqujnkpm91jqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9rTJzdzmGRMin2V3DogDWHhpmbKW_mIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902174855199-484tdr7gic8r2nnboulhqujnkpm91jqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
